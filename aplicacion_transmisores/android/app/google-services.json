@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766316761821",
+    "project_id": "transmisores-app",
+    "storage_bucket": "transmisores-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766316761821:android:b4b7ec454915a7e7a6c134",
+        "android_client_info": {
+          "package_name": "com.example.aplicacion_transmisores"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGYV9GnpDx2PH11_KcxLV5d0qLl2VyA-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
